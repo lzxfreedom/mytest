@@ -12,5 +12,6 @@ public class MyTest {
 		}
 		
 		System.out.println(b);
+		System.out.println("分支提交的");
 	}
 }
